@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/SEQUOIA" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
